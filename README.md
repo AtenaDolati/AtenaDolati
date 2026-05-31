@@ -9,17 +9,28 @@ I'm **Atena Dolati**, a passionate developer bridging the gap between industrial
 - 🏢 **Experience:** Proud to have contributed to projects at **MVM (مدیران خودرو)**, where I sharpened my problem-solving skills in a fast-paced environment.
 - 🤖 **AI Enthusiast:** Always eager to learn about machine learning models and data-driven solutions.
 
+  
 ## 🛠 Tech Stack
 
-### .NET Ecosystem
+### 🌐 Backend & .NET Ecosystem
 <div>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
 </div>
 
-### Python & Data Science
+### 🧩 Architecture & Practices
+<div>
+  <img src="https://img.shields.io/badge/Clean_Architecture-1F425F?style=for-the-badge" alt="Clean Architecture">
+  <img src="https://img.shields.io/badge/Dependency_Injection-6DB33F?style=for-the-badge" alt="Dependency Injection">
+  <img src="https://img.shields.io/badge/Middleware-4B8BBE?style=for-the-badge" alt="Middleware">
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge" alt="LINQ">
+</div>
+
+### 🐍 Python & Data Science
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
@@ -28,11 +39,12 @@ I'm **Atena Dolati**, a passionate developer bridging the gap between industrial
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
 </div>
 
-### Tools & Others
+### 🗄️ Database & Tools
 <div>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
+
 
 ## 📈 What I'm working on
 - 💻 Deepening my expertise in **ASP.NET Core** backend development.
