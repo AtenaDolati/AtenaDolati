@@ -12,22 +12,24 @@ I'm **Atena Dolati**, a passionate developer bridging the gap between industrial
   
 ## 🛠 Tech Stack
 
+## 🛠 Tech Stack
+
 ### 🌐 Backend & .NET Ecosystem
 <div>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
-  <img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core">
+  <img src="https://img.shields.io/badge/EF_Core-3D2873?style=for-the-badge&logo=entityframework&logoColor=white" alt="Entity Framework Core">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=openapi-initiative&logoColor=white" alt="REST API">
 </div>
 
-### 🧩 Architecture & Practices
+### 🧩 Architecture & Principles
 <div>
-  <img src="https://img.shields.io/badge/Clean_Architecture-1F425F?style=for-the-badge" alt="Clean Architecture">
-  <img src="https://img.shields.io/badge/Dependency_Injection-6DB33F?style=for-the-badge" alt="Dependency Injection">
-  <img src="https://img.shields.io/badge/Middleware-4B8BBE?style=for-the-badge" alt="Middleware">
-  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge" alt="LINQ">
+  <img src="https://img.shields.io/badge/Clean_Architecture-20232a?style=for-the-badge&logo=stackblitz&logoColor=61DAFB" alt="Clean Architecture">
+  <img src="https://img.shields.io/badge/Dependency_Injection-007ACC?style=for-the-badge&logo=dependency-injection&logoColor=white" alt="Dependency Injection">
+  <img src="https://img.shields.io/badge/Middleware-E65100?style=for-the-badge&logo=middleware&logoColor=white" alt="Middleware">
+  <img src="https://img.shields.io/badge/LINQ-9C27B0?style=for-the-badge&logo=linq&logoColor=white" alt="LINQ">
 </div>
 
 ### 🐍 Python & Data Science
@@ -36,7 +38,7 @@ I'm **Atena Dolati**, a passionate developer bridging the gap between industrial
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
 </div>
 
 ### 🗄️ Database & Tools
@@ -44,6 +46,7 @@ I'm **Atena Dolati**, a passionate developer bridging the gap between industrial
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
+
 
 
 ## 📈 What I'm working on
