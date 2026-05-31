@@ -5,12 +5,10 @@ I'm **Atena Dolati**, a passionate developer bridging the gap between industrial
 ## 🚀 About Me
 
 - 💼 **Professional Focus:** .NET & Python Developer
-- 🎓 **Academic Background:** Computer Science Student
+- 🎓 **Academic Background:** Computer Science Student at Iran University of Science and Technilogy
 - 🏢 **Experience:** Proud to have contributed to projects at **MVM (مدیران خودرو)**, where I sharpened my problem-solving skills in a fast-paced environment.
 - 🤖 **AI Enthusiast:** Always eager to learn about machine learning models and data-driven solutions.
 
-  
-## 🛠 Tech Stack
 
 ## 🛠 Tech Stack
 
