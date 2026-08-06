@@ -1,59 +1,141 @@
-# Hi there! 👋
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=false&vCenter=true&width=500&lines=Hi+there!+I'm+Atena+Dolati+%F0%9F%91%8B;Junior+Backend+Developer+(.NET);AI+%7C+NLP+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
 
-I'm **Atena Dolati**, a passionate developer bridging the gap between industrial engineering and software development. I love building efficient backends and exploring the endless possibilities of Artificial Intelligence.
+I'm **Atena Dolati**, a **Computer Science student** passionate about building scalable backend systems with **.NET** and exploring **Artificial Intelligence**.
+
+I enjoy solving real-world problems through clean architecture, modern software engineering practices, and continuous learning.
+
+---
 
 ## 🚀 About Me
 
-- 💼 **Professional Focus:** .NET & Python Developer
-- 🎓 **Academic Background:** Computer Science Student at Iran University of Science and Technilogy
-- 🏢 **Experience:** Proud to have contributed to projects at **MVM (مدیران خودرو)**, where I sharpened my problem-solving skills in a fast-paced environment.
-- 🤖 **AI Enthusiast:** Always eager to learn about machine learning models and data-driven solutions.
+🎓 Computer Science Student @ Iran University of Science and Technology (IUST)
 
+💼 Former **Backend Developer** at **MVM (Modiran Vehicle Manufacturing)**
 
-## 🛠 Tech Stack
+🤖 Former **AI Intern** at **Roshan (Rahkar Pardazesh Zharf)**
 
-### 🌐 Backend & .NET Ecosystem
-<div>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core">
-  <img src="https://img.shields.io/badge/EF_Core-3D2873?style=for-the-badge&logo=entityframework&logoColor=white" alt="Entity Framework Core">
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger">
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=openapi-initiative&logoColor=white" alt="REST API">
-</div>
+📚 Currently attending the **Daneshkar .NET Backend Bootcamp**
 
-### 🧩 Architecture & Principles
-<div>
-  <img src="https://img.shields.io/badge/Clean_Architecture-20232a?style=for-the-badge&logo=stackblitz&logoColor=61DAFB" alt="Clean Architecture">
-  <img src="https://img.shields.io/badge/Dependency_Injection-007ACC?style=for-the-badge&logo=dependency-injection&logoColor=white" alt="Dependency Injection">
-  <img src="https://img.shields.io/badge/Middleware-E65100?style=for-the-badge&logo=middleware&logoColor=white" alt="Middleware">
-  <img src="https://img.shields.io/badge/LINQ-9C27B0?style=for-the-badge&logo=linq&logoColor=white" alt="LINQ">
-</div>
+🌱 Learning **Docker • Redis • Hangfire • MediatR • CQRS • CI/CD**
 
-### 🐍 Python & Data Science
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
-</div>
+🎯 Goal: Becoming a Backend Software Engineer building scalable products.
 
-### 🗄️ Database & Tools
-<div>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</div>
+---
 
+# 💻 Tech Stack
 
+### Backend
 
-## 📈 What I'm working on
-- 💻 Deepening my expertise in **ASP.NET Core** backend development.
-- 📚 Currently leveling up through the specialized .NET bootcamp at **Daneshkar**.
-- 🧠 Researching and implementing new algorithms in Machine Learning projects.
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider" />
+</p>
 
-## ⚡ Fun fact
-I believe that code is just the medium, but "solving complex problems" is the true art form. When I'm not coding, I'm likely lost in the academic world of algorithms or exploring how AI can reshape our future.
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+SQL Server • Entity Framework Core • Dapper
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+</p>
+
+Swagger • AutoMapper • FluentValidation
+
+### AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+Machine Learning • NLP • HuggingFace • ParsBERT • Persian XLM-RoBERTa
+
+---
+
+# 🚀 Featured Projects
+
+### 💼 Bridge *(In Progress)*
+
+Recruitment Management Platform built with:
+
+* ASP.NET Core
+* Entity Framework Core
+* Clean Architecture
+* JWT Authentication
+* SQL Server
+
+---
+
+### 💻 CodeMate *(In Progress)*
+
+Backend application focused on authentication, user management, validation, and scalable architecture.
+
+---
+
+### 🤖 Persian Question Answering
+
+AI Internship Project at Roshan
+
+Built using:
+
+* ParsBERT
+* Persian XLM-RoBERTa-Large
+* Python
+* NLP
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AtenaDolati&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtenaDolati&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=AtenaDolati&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://ir.linkedin.com/in/atenadolati">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:atenadolati1383@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/AtenaDolati">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> **"Building reliable software, one commit at a time."**
+
+</p>
 
 ## 📫 How to reach me
 - **LinkedIn:** [Atena Dolati](https://ir.linkedin.com/in/atenadolati)
