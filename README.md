@@ -1,135 +1,151 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Atena+Dolati+%F0%9F%91%8B;Backend+Developer+%7C+.NET+%26+AI;Building+Scalable+Software+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Atena+Dolati+%F0%9F%91%8B;Backend+Developer+%7C+.NET+%26+AI;Building+Scalable+Software+Solutions" />
 
 <br/>
 
-### 🚀 Backend Developer | ASP.NET Core | Artificial Intelligence
+<img src="https://komarev.com/ghpvc/?username=AtenaDolati&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
-I'm **Atena Dolati**, a Computer Science student and Backend Developer passionate about designing reliable software systems and building practical solutions using modern technologies.
+I'm **Atena Dolati**, a Computer Science student and **Backend Developer** passionate about designing scalable software systems and creating practical solutions with modern technologies.
 
-My main focus is **backend development with C# and ASP.NET Core**, while keeping a strong interest in **Artificial Intelligence, Natural Language Processing, and Machine Learning**.
+My main focus is **C# and ASP.NET Core backend development**, while exploring the intersection of **Artificial Intelligence, Natural Language Processing, and Software Engineering**.
 
-* 🎓 Computer Science Student at **Iran University of Science and Technology (IUST)**
-* 💼 Backend Development Experience at **MVM (Modiran Vehicle Manufacturing / مدیران خودرو)**
-* 🤖 AI Internship Experience at **Roshan (Rahkar Pardazesh Zharf)**
-* 🏗 Building production-oriented backend projects using .NET ecosystem
-* 📚 Currently improving my backend engineering skills through **Daneshkar .NET Bootcamp**
+### 🚀 Highlights
 
----
-
-# 🛠 Technical Skills
-
-## 🌐 Backend Development
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet" />
-
-**C# • ASP.NET Core • RESTful API • Entity Framework Core • LINQ • MVC • Minimal API**
-
-**Authentication & Security**
-
-JWT Authentication • ASP.NET Identity • Authorization • Claims • Policies
+- 🎓 Computer Science Student at **Iran University of Science and Technology (IUST)**
+- 💼 Backend Development Experience at **MVM (Modiran Vehicle Manufacturing / مدیران خودرو)**
+- 🤖 AI Internship Experience at **Roshan (Rahkar Pardazesh Zharf)**
+- 🏗 Building backend applications using modern .NET architecture patterns
+- 📚 Currently improving my expertise through **Daneshkar .NET Backend Bootcamp**
 
 ---
 
-## 🏛 Software Architecture
+# 💻 Tech Stack
 
-**Clean Architecture**
+<div align="center">
 
-**SOLID Principles**
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,git,github,docker,postman,rider,visualstudio" />
 
-**Object-Oriented Programming**
+</div>
 
-**Dependency Injection**
+### Backend Development
 
-**Repository Pattern**
+```
+C#
+ASP.NET Core
+RESTful API
+Entity Framework Core
+LINQ
+MVC
+Minimal API
+JWT Authentication
+ASP.NET Identity
+FluentValidation
+AutoMapper
+```
 
-**Design Patterns**
+### Architecture & Engineering
 
-**CQRS & MediatR (Learning)**
+```
+Clean Architecture
+SOLID Principles
+OOP
+Dependency Injection
+Repository Pattern
+Design Patterns
+CQRS
+MediatR
+```
 
----
+### Database
 
-## 🤖 Artificial Intelligence
+```
+SQL Server
+Entity Framework Core
+Dapper
+Database Design
+Migration
+```
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+### Artificial Intelligence
 
-**Machine Learning • NLP • Transformers • Hugging Face**
-
-Experience with:
-
-* ParsBERT Question Answering
-* Persian XLM-RoBERTa-Large
-* Persian NLP Applications
-
----
-
-## 🗄 Database & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
-
-* SQL Server
-* Entity Framework Core
-* Dapper
-* Swagger / OpenAPI
-* Git & GitHub
-* Docker
+```
+Python
+Machine Learning
+NLP
+Transformers
+Hugging Face
+ParsBERT
+Persian XLM-RoBERTa-Large
+```
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌉 Bridge — Recruitment Platform *(In Progress)*
+## 🌉 Bridge — Recruitment Platform
+### *(In Progress)*
 
-A scalable recruitment management platform designed to connect companies and candidates.
+A recruitment and hiring management platform designed to improve the connection between companies and candidates.
 
-**Technologies**
+### Technologies
 
-ASP.NET Core • Entity Framework Core • SQL Server • Clean Architecture
+- ASP.NET Core
+- Entity Framework Core
+- SQL Server
+- Clean Architecture
+- JWT Authentication
 
-**Main Features**
+### Main Areas
 
-* Authentication & Authorization
-* Company Management
-* Recruitment Workflow
-* Resume Management
-* Interview Management
-* Hiring Process Management
+- Authentication & Authorization
+- User Management
+- Company Management
+- Recruitment Workflow
+- Resume Management
+- Hiring Process
 
 ---
 
-## 💻 CodeMate *(In Progress)*
+## 💻 CodeMate
+### *(In Progress)*
 
-A collaborative backend project focused on building maintainable and scalable backend services.
+A backend-focused project where I contribute to designing maintainable and scalable services.
 
-**Implemented Areas**
+### Contributions
 
-* Authentication System
-* User Management
-* Domain Entities
-* EF Core Configurations
-* FluentValidation
-* AutoMapper
-* Feature-based Git Workflow
+- Authentication module
+- User entities design
+- EF Core configurations
+- FluentValidation
+- AutoMapper mappings
+- Feature-based Git workflow
 
 ---
 
 ## 🤖 Persian Question Answering System
 
-Developed during AI internship at **Roshan**.
+Developed during my AI internship at **Roshan**.
 
-A Natural Language Processing system for Persian Question Answering using transformer-based models.
+A Persian NLP system based on transformer models.
 
-**Models**
+### Models
 
-* ParsBERT Question Answering (PQuAD)
-* Persian XLM-RoBERTa-Large
+- ParsBERT Question Answering (PQuAD)
+- Persian XLM-RoBERTa-Large
+
+### Technologies
+
+- Python
+- Machine Learning
+- NLP
+- Transformer Models
 
 ---
 
@@ -137,12 +153,12 @@ A Natural Language Processing system for Persian Question Answering using transf
 
 Currently working on:
 
-* 🚀 Advanced ASP.NET Core Development
-* 🏗 Software Architecture & Clean Code
-* 🐳 Docker & Containerization
-* ⚡ Redis & Background Processing
-* 🔄 CI/CD Practices
-* 🤖 AI-powered Software Solutions
+🚀 Advanced ASP.NET Core Development  
+🏗 Software Architecture & Clean Code  
+🐳 Docker & Containerization  
+⚡ Redis & Background Processing  
+🔄 CI/CD Practices  
+🤖 AI-powered Applications  
 
 ---
 
@@ -150,29 +166,32 @@ Currently working on:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AtenaDolati&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AtenaDolati&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
 
 </div>
 
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AtenaDolati&theme=algolia&no-frame=true&margin-w=10"/>
-
-</div>
 
 ---
 
-# 🔥 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtenaDolati&theme=github-dark&hide_border=true"/>
 
 </div>
+
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AtenaDolati/AtenaDolati/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
 
 ---
 
@@ -188,7 +207,12 @@ Currently working on:
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://github.com/AtenaDolati">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
+
 
 ---
 
