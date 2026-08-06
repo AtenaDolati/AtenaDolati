@@ -1,146 +1,171 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=false&vCenter=true&width=500&lines=Hi+there!+I'm+Atena+Dolati+%F0%9F%91%8B;Junior+Backend+Developer+(.NET);AI+%7C+NLP+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+# <div align="center">
 
-I'm **Atena Dolati**, a **Computer Science student** passionate about building scalable backend systems with **.NET** and exploring **Artificial Intelligence**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=700&lines=Hi+there!+I'm+Atena+Dolati+%F0%9F%91%8B;Junior+Backend+Developer+(.NET);AI+%7C+NLP+Enthusiast;Always+Building.+Always+Learning." />
 
-I enjoy solving real-world problems through clean architecture, modern software engineering practices, and continuous learning.
+### 💙 *Building reliable software, one commit at a time.*
 
----
-
-## 🚀 About Me
-
-🎓 Computer Science Student @ Iran University of Science and Technology (IUST)
-
-💼 Former **Backend Developer** at **MVM (Modiran Vehicle Manufacturing)**
-
-🤖 Former **AI Intern** at **Roshan (Rahkar Pardazesh Zharf)**
-
-📚 Currently attending the **Daneshkar .NET Backend Bootcamp**
-
-🌱 Learning **Docker • Redis • Hangfire • MediatR • CQRS • CI/CD**
-
-🎯 Goal: Becoming a Backend Software Engineer building scalable products.
+</div>
 
 ---
 
-# 💻 Tech Stack
+# 👩‍💻 About Me
+
+I'm **Atena Dolati**, a **Computer Science student** passionate about building scalable backend applications with the **.NET ecosystem** while exploring the fascinating world of **Artificial Intelligence**.
+
+* 🎓 Computer Science Student @ **Iran University of Science and Technology (IUST)**
+* 💼 Former **Backend Developer** at **MVM (Modiran Vehicle Manufacturing / مدیران خودرو)**
+* 🤖 Former **AI Intern** at **Roshan (Rahkar Pardazesh Zharf)**
+* 📚 Currently attending the **Daneshkar .NET Backend Development Bootcamp**
+* 🚀 Building real-world backend applications with ASP.NET Core
+* 🌱 Learning Docker, Redis, CI/CD, CQRS, MediatR, and Software Architecture
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
 
 ### Backend
 
-<p>
 <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider" />
-</p>
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-SQL Server • Entity Framework Core • Dapper
-
-### Tools
-
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
-</p>
 
-Swagger • AutoMapper • FluentValidation
+**SQL Server • Entity Framework Core • Dapper**
 
-### AI
+### AI & Python
 
-<p>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
 
-Machine Learning • NLP • HuggingFace • ParsBERT • Persian XLM-RoBERTa
+### Software Engineering
+
+**Clean Architecture • SOLID • REST API • JWT • ASP.NET Identity • FluentValidation • AutoMapper**
+
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-### 💼 Bridge *(In Progress)*
+## 🌉 Bridge *(In Progress)*
 
-Recruitment Management Platform built with:
+Recruitment & Hiring Platform built with:
 
 * ASP.NET Core
 * Entity Framework Core
-* Clean Architecture
-* JWT Authentication
 * SQL Server
+* JWT Authentication
+* Clean Architecture
 
 ---
 
-### 💻 CodeMate *(In Progress)*
+## 💻 CodeMate *(In Progress)*
 
-Backend application focused on authentication, user management, validation, and scalable architecture.
+Backend application focused on authentication, validation, database design, and scalable architecture.
+
+**Current Contributions**
+
+* Authentication Module
+* Entity Framework Core
+* FluentValidation
+* AutoMapper
+* Domain Entities
+* Git Feature Branch Workflow
 
 ---
 
-### 🤖 Persian Question Answering
+## 🤖 Persian Question Answering System
 
-AI Internship Project at Roshan
+Developed during my AI internship at **Roshan** using:
 
-Built using:
-
-* ParsBERT
+* ParsBERT Question Answering
 * Persian XLM-RoBERTa-Large
 * Python
 * NLP
+* Machine Learning
 
 ---
 
-# 📊 GitHub Stats
+# 📈 Currently Learning
 
-<p align="center">
+* 🚀 Advanced ASP.NET Core
+* 🐳 Docker
+* ⚡ Redis
+* 📦 Hangfire
+* 🧩 MediatR
+* 🏗 CQRS
+* 🔄 GitHub Actions (CI/CD)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AtenaDolati&show_icons=true&theme=github_dark&hide_border=true"/>
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AtenaDolati&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtenaDolati&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=AtenaDolati&theme=github-dark&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 📫 Connect With Me
+# 🏆 GitHub Trophies
 
-<p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AtenaDolati&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtenaDolati&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://ir.linkedin.com/in/atenadolati">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:atenadolati1383@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/AtenaDolati">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
 
-> **"Building reliable software, one commit at a time."**
+### ⭐ Thanks for visiting my profile!
 
-</p>
+*"Turning ideas into scalable software, one project at a time."*
 
-## 📫 How to reach me
-- **LinkedIn:** [Atena Dolati](https://ir.linkedin.com/in/atenadolati)
-- **GitHub:** [AtenaDolati](https://github.com/AtenaDolati)
-- **Email:** [AtenaDolati2004](mailto:atenadolati2004@gmail.com)
-
----
-*Last updated: June 2026*
+</div>
