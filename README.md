@@ -171,7 +171,7 @@ Currently working on:
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AtenaDolati&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
----
+___
 
 
 ## 📈 Contribution Activity
@@ -181,7 +181,7 @@ Currently working on:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtenaDolati&theme=github-dark&hide_border=true&area=true"/>
 
 </div>
----
+___
 
 # 📫 Connect With Me
 
