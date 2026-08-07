@@ -162,37 +162,34 @@ Currently working on:
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AtenaDolati&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AtenaDolati&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtenaDolati&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtenaDolati&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtenaDolati&theme=github-dark&hide_border=true&area=true"/>
 
 </div>
 
-
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/AtenaDolati/AtenaDolati/output/github-contribution-grid-snake.svg"/>
 
 </div>
-
-
 ---
 
 # 📫 Connect With Me
