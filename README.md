@@ -166,9 +166,9 @@ Currently working on:
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AtenaDolati&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AtenaDolati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AtenaDolati&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AtenaDolati&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -177,7 +177,7 @@ Currently working on:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtenaDolati&theme=github-dark&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtenaDolati&theme=tokyo-night&hide_border=true&area=true&custom_title=Atena's%20Coding%20Activity"/>
 
 </div>
 
