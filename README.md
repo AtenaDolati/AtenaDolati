@@ -172,6 +172,14 @@ Currently working on:
 
 </div>
 ---
+## 🏗 Engineering Journey
+
+<div align="center">
+
+Backend Development → Software Architecture → AI-powered Applications
+
+</div>
+---
 
 ## 📈 Contribution Activity
 
@@ -180,7 +188,14 @@ Currently working on:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtenaDolati&theme=github-dark&hide_border=true&area=true"/>
 
 </div>
+---
+## 🐍 Contribution Snake
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AtenaDolati/AtenaDolati/output/github-contribution-grid-snake.svg"/>
+
+</div>
 ---
 
 # 📫 Connect With Me
