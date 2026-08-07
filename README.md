@@ -184,8 +184,6 @@ Currently working on:
 
 # 📫 Connect With Me
 
-<div align="center">
-
 - 📧 **Email:** [atenadolati2004@gmail.com](mailto:atenadolati2004@gmail.com)
 - 💼 **LinkedIn:** https://linkedin.com/in/atenadolati
 - 💻 **GitHub:** https://github.com/AtenaDolati
