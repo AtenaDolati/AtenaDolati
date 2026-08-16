@@ -162,17 +162,6 @@ Currently working on:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AtenaDolati&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AtenaDolati&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
 ## 📈 Contribution Activity
 
 <div align="center">
